@@ -324,7 +324,7 @@ export const education = [
   },
   {
     id: 4,
-    img: "./Kholeshwar.jpg",
+    img: "./kholeshwar.jpg",
     school: "Kholeshwar School,Ambajogai",
     date: "May 2008 - Mar 2011",
     grade: "74.49%",
