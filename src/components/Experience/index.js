@@ -78,9 +78,9 @@ const index = () => {
     return (
         <Container id="experience">
             <Wrapper>
-                <Title>Experience</Title>
+                <Title></Title>
                 <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
+                    "I was drawn to the dynamic and rapidly evolving nature of the tech industry, which offers abundant opportunities for growth and innovation. Additionally, I recognized the increasing importance of digital technologies in various sectors, and I wanted to leverage my problem-solving skills and analytical mindset to contribute to this field. Web development, with its blend of creativity, logic, and technical expertise, seemed like a natural fit for me to apply my engineering background in a new and exciting way. Moreover, the demand for skilled web developers is high, providing ample career prospects and potential for advancement. Overall, pursuing web development allows me to explore my passion for technology while embracing new challenges and opportunities for professional development."
                 </Desc>
                 <TimelineSection>
                     <Timeline>
