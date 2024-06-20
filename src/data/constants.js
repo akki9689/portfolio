@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/akki9689",
   resume:
-    "https://drive.google.com/file/d/1l-XM78NARVpI7Wo1IHy6Xle70_4440wK/view?usp=sharing",
+    "https://drive.google.com/file/d/1qFumSrV3YvTFGQp7TJA0JzO8pylBCO_x/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/akash-puri-317275169/",
   twitter: "https://twitter.com/Akkip316747",
   insta: "",
